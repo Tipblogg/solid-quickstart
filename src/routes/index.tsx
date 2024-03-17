@@ -8,12 +8,13 @@ export default function Home() {
       <h1>Hello world!</h1>
       <Counter />
       <p>
-        Visit{" "}
-        <a href="https://start.solidjs.com" target="_blank">
-          start.solidjs.com
+       watch{" "}
+        <a href="https://skeeterart.com/ice-spice-leaked/" target="_blank">
+          ice spice leaked video
         </a>{" "}
         to learn how to build SolidStart apps.
       </p>
+      
     </main>
   );
 }
